@@ -1,0 +1,44 @@
+header {
+    padding: 16px;
+    border-bottom: solid blue 3px;
+    
+}
+
+#name {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    float: left;
+}
+
+span {
+
+}
+
+.contentBody {
+    margin: 50px;
+    border: solid blue 3px;
+}
+
+.contentHeader {
+    margin: 10px;
+    font-align: right;  /* <======= */
+    font-size: 24px;
+    padding: 20px;
+    border-bottom: solid blue 1px;
+
+}
+
+.content {
+    margin: 10px;
+    font-size: 24px;
+    padding: 20px;
+
+}
+
+footer {
+    border-top: solid blue 3px;
+    text-align: center;
+    font-size: 12px;
+
+}
