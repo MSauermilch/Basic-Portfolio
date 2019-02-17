@@ -4,7 +4,7 @@ body {
 
 header {
     height: 54px;
-    width: 1440px;
+    width: 1365px;
     background-color:#ffffff;
     border-bottom: solid #cccccc 3px;
 
@@ -24,7 +24,7 @@ header {
 
 .links{
     text-align: center;
-    margin-left: 700px;
+    margin-left: 750px;
     padding-top: 25px;
     font-size: 12px;
 }
@@ -79,7 +79,7 @@ footer {
     border-top: solid #cccccc 8px;
     background-color: #666666;
     height: 20px;
-    width: 100%;
+    width: 1365px;;
     text-align: center;
     font-size: 10px;
     padding-top: 40px;
@@ -102,7 +102,7 @@ footer {
 
 .links1 {
     text-align: left;
-    margin-left: 875px;
+    margin-left: 860px;
     padding-top: 25px;
     font-size: 12px;
     
@@ -134,3 +134,6 @@ button {
    text-align: center;
    font-size: 10px;
 }
+
+/* portfolio */
+
