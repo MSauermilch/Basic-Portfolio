@@ -1,4 +1,4 @@
-body {
+.container {
     background-image: url("../images/ricepaper2/ricepaper2.png");
 }
 
@@ -14,7 +14,7 @@ header {
     text-align: center;
     font-size: 28px;
     color: white;
-    margin-left: 280px;
+    margin-left: 62px;
     background-color: #777777;
     padding: 13px;
     padding-left: 30px;
@@ -66,7 +66,7 @@ section{
 }
 
 img {
-    height: 200px;
+    height: 150px;
     width: auto;
     margin-right: 20px;
     margin-bottom: 10px;
@@ -79,6 +79,7 @@ img {
 }
 
 footer {
+    clear: both;
     border-top: solid #cccccc 8px;
     background-color: #666666;
     height: 20px;
@@ -92,15 +93,15 @@ footer {
 /* Contact Page */
 
 #name1 {
-    float: left;
-    text-align: left;
+    text-align: center;
     font-size: 28px;
     color: white;
-    margin-left: 350px;
+    margin-left: 330px;
     background-color: #777777;
     padding: 13px;
     padding-left: 30px;
     padding-right: 30px;
+    float: left;
 }
 
 .links1 {
@@ -138,11 +139,18 @@ button {
 
 /* portfolio page */
 
+.contentBody2 {
+    width:650px;
+    height: 550px;
+    margin: 25px  auto;
+    background-color:#ffffff; 
+    border: solid #dddddd 1px;
+}
+
 .work {
     position: relative;
     float: left;
     width: 174px;
-    margin: 20px 0 25px;
-    overflow: auto;
+    margin: 20px;
   }
 
